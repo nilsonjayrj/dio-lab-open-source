@@ -80,11 +80,13 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
 
  Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
- Além disso, você também pode contribuir:
- 
-⚠️ Resolvendo, respondendo ou indicando **issues**
-
-⭐ Adicionando aos favoritos (**star**) 
+ Tipo de Commit	Descrição	Exemplo
+feat	Adiciona uma nova funcionalidade ao projeto.	feat: add USENAME.md profile
+fix	Corrige um bug ou problema no projeto.	fix: fixed issue fix#IssueNumber
+docs	Altera a documentação do projeto.	docs: update README.md
+style	Realiza mudanças na aparência, sem alterar a funcionalidade.	style: add EFFECTNAME to COMPONENT
+refactor	Realiza mudanças no código que não alteram a funcionalidade.	refactor: refactor at CLASSNAME
+test	Adiciona ou modifica testes no projeto.	test: add unit test for UserService
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
